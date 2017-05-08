@@ -1,0 +1,26 @@
+{
+  "name": "falve",
+  "version": "1.0.0",
+  "description": "learning css in an awesome manner",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.2",
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "browser-sync": "^2.18.8",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^3.1.0",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7"
+  }
+}
